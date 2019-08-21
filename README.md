@@ -1,3 +1,3 @@
 "# playground-javascript" 
 
-In this repository we will learn javascript programming.
+* In this repository we will learn javascript programming.
